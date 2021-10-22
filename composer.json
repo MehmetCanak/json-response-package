@@ -4,15 +4,12 @@
   "minimum-stability": "stable",
   "license": "MIT",
   "type": "library",
-  "keywords": ["json", "api", "standard", "jsonapi"],
-  "authors": [
-    {
-      "name": "canak",
-      "email": "mehmetcanak99@gmail.com"
-    }
-  ],
+  "homepage": "https://github.com/MehmetCanak/json-response-package",
+  "keywords" : ["json", "api", "standard", "jsonapi"],
   "require": {
-    "php": ">=5.3.0"
+    "php": ">=5.3.0",
+    "ext-json": "*",
+    "json-api-php/json-api": "^2.0"
   },
   "autoload": {
     "psr-4": {
