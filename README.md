@@ -1,7 +1,7 @@
 #json-response-package
 
 ## Installation
-composer require kars/json_response
+composer require kars/json-response
 
 ### Use
 
