@@ -20,3 +20,15 @@ new \Kars\JsonResponse\Response('ok', '', $test);
 1. success or ok - 200 http status
 2. unauthorized - 401 http status
 3. exception - 500 http status
+
+###response
+```
+{
+ "status":"ok",
+ "data":
+    {
+      "name":"mehmet",
+      "email":"mehmetcanak99@gmail.com"
+    }
+}
+```
