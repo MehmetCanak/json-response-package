@@ -1,4 +1,5 @@
-#json-response-package
+# json-response-package
+Returns json format when this package gives value and data properties
 
 ## Installation
 composer require kars/json-response
