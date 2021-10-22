@@ -1,4 +1,7 @@
 # json-response-package
+
+[![version](https://img.shields.io/badge/version-1.0.0-blue)](https://packagist.org/packages/kars/json-response)
+
 Returns json format when this package gives value and data properties
 
 ## Installation
