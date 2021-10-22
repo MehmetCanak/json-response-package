@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0e1df853-ff62-4b45-8076-798fe91b4dd7" name="192.168.3.41">
+        <fileTransfer rootFolder="/home/oguz/angaryos-stack" accessType="SFTP" host="192.168.3.41" port="22" sshConfigId="5118d068-5bf6-4ef2-b9f7-03efa4e3ff92" sshConfig="oguz@192.168.3.41:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="238088c9-7ef3-4956-8953-906dd2745371" name="192.168.3.49">
+        <fileTransfer rootFolder="/home/oguz" accessType="SFTP" host="192.168.3.49" port="22" sshConfigId="148d8b33-8517-4b2d-a572-94e4298aaafa" sshConfig="oguz@192.168.3.49:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
