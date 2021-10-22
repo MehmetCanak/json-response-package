@@ -21,7 +21,7 @@ new \Kars\JsonResponse\Response('ok', '', $test);
 2. unauthorized - 401 http status
 3. exception - 500 http status
 
-###response
+### Response
 ```
 {
  "status":"ok",
